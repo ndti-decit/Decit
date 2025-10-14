@@ -1,6 +1,6 @@
 # Covid-19 - Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
 
-Dados abertos sobre projetos de fomento a pesquisas referentes ao vírus Covid-19 realizados pelo Departamento de Ciência e Tecnologia (DECIT), vinculado à Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS).
+Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus COVID-19, reunindo informações sobre projetos, valores e anos de contratação, para consulta e análise pública.
 
 ### 📁 Estrutura do repositório
 
