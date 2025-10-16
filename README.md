@@ -33,14 +33,21 @@ Veja a descrição completa das variáveis em `documentacao/dicionario_dados.csv
 
 ### 🤝 Contribuições
 
--Ministério da Saúde – MS 
--Departamento de Ciência e Tecnologia – DECIT 
--Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS 
--Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI 
--Coordenação-Geral de Ações Estratégicas em Pesquisa Clínica – CGPCLIN 
--Coordenação-Geral de Fomento à Pesquisa em Saúde – CGFPS  
--Coordenação de Gestão de Programas de Pesquisa – COPP 
--Coordenação-Geral de Evidências em Saúde – CGEvi 
+Ministério da Saúde – MS
+
+Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS
+
+Departamento de Ciência e Tecnologia – DECIT
+
+Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
+
+Coordenação-Geral de Ações Estratégicas em Pesquisa Clínica – CGPCLIN/DECIT
+
+Coordenação-Geral de Fomento à Pesquisa em Saúde – CGFPS/DECIT
+
+Coordenação de Gestão de Programas de Pesquisa – COPP/DECIT
+
+Coordenação-Geral de Evidências em Saúde – CGEvi/DECIT
 
 ### 📊 Fonte de dados:
 
