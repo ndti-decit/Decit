@@ -35,8 +35,7 @@ Veja a descrição completa das variáveis em `documentacao/dicionario_dados.csv
 
 ### 🤝 Contribuições
 
-- Núcleo de Gestão de Dados e Tecnologia da Informação (NDTI)
-- Núcleo de Administração Técnica e Administrativa (SEGAD)
+- Núcleo de Gestão de Dados e Tecnologia e Informação (NDTI)
 - Departamento de Ciência e Tecnologia (DECIT)
 - Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS)
 - Ministério da Saúde - MS
@@ -53,5 +52,5 @@ As informações do repositório são atualizadas semestralmente para garantir a
 O repositório apresenta dados de projetos e ações estratégicas a partir de 2017.
 Os valores para algumas atividades são estimativas fornecidas pelas áreas técnicas responsáveis.
 
-Atenciosamente,
+
 
