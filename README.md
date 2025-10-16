@@ -28,17 +28,19 @@ Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS 
 | Previsão         | Ano de Previsão de término       | Texto    |
 | Coordenação      | Coordenação responsável          | Texto    |
 
-
-
 Veja a descrição completa das variáveis em `documentacao/dicionario_dados.csv`
 
 
 ### 🤝 Contribuições
 
-- Núcleo de Gestão de Dados e Tecnologia e Informação (NDTI)
-- Departamento de Ciência e Tecnologia (DECIT)
-- Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS)
-- Ministério da Saúde - MS
+-Ministério da Saúde – MS 
+-Departamento de Ciência e Tecnologia – DECIT 
+-Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS 
+-Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI 
+-Coordenação-Geral de Ações Estratégicas em Pesquisa Clínica – CGPCLIN 
+-Coordenação-Geral de Fomento à Pesquisa em Saúde – CGFPS  
+-Coordenação de Gestão de Programas de Pesquisa – COPP 
+-Coordenação-Geral de Evidências em Saúde – CGEvi 
 
 ### 📊 Fonte de dados:
 
@@ -46,11 +48,7 @@ DECIT/MS
 
 As informações do repositório são atualizadas semestralmente para garantir a precisão e a atualidade dos dados.
 
-
 ### 📝 Notas:
 
 O repositório apresenta dados de projetos e ações estratégicas a partir de 2017.
 Os valores para algumas atividades são estimativas fornecidas pelas áreas técnicas responsáveis.
-
-
-
