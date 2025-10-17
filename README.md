@@ -1,61 +1,15 @@
-# Covid-19 - Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
+# Dados Abertos do DECIT
 
-Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus COVID-19, reunindo informações sobre projetos, valores e anos de contratação, para consulta e análise pública.
+O **Departamento de Ciência e Tecnologia (DECIT)** O Departamento de Ciência e Tecnologia (DECIT/SECTICS/MS) promove o acesso aberto aos dados de pesquisas que financia, fortalecendo a transparência, a inovação e o desenvolvimento científico no âmbito do Sistema Único de Saúde (SUS). Por meio do fomento estratégico a projetos de pesquisa em saúde, o DECIT contribui para a geração de conhecimento aplicável às necessidades do SUS e ao avanço das políticas públicas em saúde no País.
 
-### 📁 Estrutura do repositório
+Neste repositório, disponibilizamos dados referentes a painéis publicados pelo DECIT, permitindo que pesquisadores, gestores e o público em geral possam consultar, analisar e reutilizar essas informações.
 
-- `dados/`: arquivos em CSV organizados por ano.
-- `scripts/`: scripts de extração e tratamento.
-- `documentacao/`: dicionário de dados, fontes e metodologias.
+Para acessar os painéis públicos do DECIT/SECTICS/MS e outras informações relacionadas, visite [Painéis DECIT](https://www.gov.br/saude/pt-br/composicao/sectics/decit).
 
+---
 
-### 📖 Dicionário de Dados:
+**Objetivo deste repositório:**
 
-| Coluna           | Descrição                        | Tipo     |
-|------------------|----------------------------------|----------|
-| NUP do Projeto   | Número Único de Protocolo        | Texto    |
-| Modalidade       | Modalidade de fomento            | Texto    |
-| Ano              | Ano de contratação               | Texto    |
-| Código Inst.     | Código da instituição            | Inteiro  |
-| Subgrupo         | Subgrupo temático                | Texto    |
-| Grupo            | Grupo temático                   | Texto    |
-| Tipo Inst.       | Tipo de Instituição              | Texto    |
-| Título           | Título do projeto                | Texto    |
-| Objetivo         | Objetivo do projeto              | Texto    |
-| Tipo             | Tipo de pesquisa                 | Texto    |
-| Valor total      | Valor do projeto                 | Decimal  |
-| Status           | Status do projeto                | Texto    |
-| Previsão         | Ano de Previsão de término       | Texto    |
-| Coordenação      | Coordenação responsável          | Texto    |
-
-Veja a descrição completa das variáveis em `documentacao/dicionario_dados.csv`
-
-
-### 🤝 Contribuições
-
-Ministério da Saúde – MS
-
-Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS
-
-Departamento de Ciência e Tecnologia – DECIT
-
-Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
-
-Coordenação-Geral de Ações Estratégicas em Pesquisa Clínica – CGPCLIN/DECIT
-
-Coordenação-Geral de Fomento à Pesquisa em Saúde – CGFPS/DECIT
-
-Coordenação de Gestão de Programas de Pesquisa – COPP/DECIT
-
-Coordenação-Geral de Evidências em Saúde – CGEvi/DECIT
-
-### 📊 Fonte de dados:
-
-DECIT/MS
-
-As informações do repositório são atualizadas semestralmente para garantir a precisão e a atualidade dos dados.
-
-### 📝 Notas:
-
-O repositório apresenta dados de projetos e ações estratégicas a partir de 2017.
-Os valores para algumas atividades são estimativas fornecidas pelas áreas técnicas responsáveis.
+- Disponibilizar dados abertos de forma organizada e confiável.
+- Facilitar o acesso a informações para análise e pesquisa.
+- Contribuir para políticas de ciência, tecnologia e inovação em saúde.
