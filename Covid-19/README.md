@@ -15,7 +15,7 @@ Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SE
 
 ### 📁 Estrutura do repositório
 
-- `dados-covid19/`: arquivos em CSV com os dados abertos para download.
+- `dados-covid-19/`: arquivos em CSV com os dados abertos para download.
 - `documentacao/`: documentação e dicionário de dados.
 
 
