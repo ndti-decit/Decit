@@ -36,7 +36,7 @@ Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SE
 | status           | Status de execução do projeto              | Texto    |
 | ano_previsao     | Ano previsto para a finalização do projeto | Texto    |
 
-Veja a descrição completa das variáveis em `documentacao/dicionario_dados.csv`
+Veja a descrição completa das variáveis em `/documentacao`
 
 
 ### 🤝 Contribuições
