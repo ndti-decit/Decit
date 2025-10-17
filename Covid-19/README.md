@@ -1,4 +1,5 @@
-# Covid-19 - Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
+# Covid-19 
+## Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
 
 📝 ### Resumo
 
