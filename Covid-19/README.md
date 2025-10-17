@@ -1,7 +1,7 @@
 # Covid-19 
-## Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
+Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
 
-📝 ### Resumo
+### 📝 Resumo
 
 Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus COVID-19, reunindo informações sobre projetos, anos de contratação, grupos temáticos e valores para consulta e análise pública.
 
