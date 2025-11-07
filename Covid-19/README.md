@@ -26,9 +26,9 @@ Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SE
 | ano_contratacao  | Ano de contratação                         | Texto    |
 | titulo           | Título do projeto                          | Texto    |
 | objetivo         | Objetivo do projeto                        | Texto    |
-| tipo_pesquisa    | Tipo de pesquisa                           | Texto    |
 | grupo_tematico   | Grupo temático da pesquisa                 | Texto    |
 | subgrupo_tematico| Subgrupo temático da pesquisa              | Texto    |
+| tipo_pesquisa    | Tipo de pesquisa                           | Texto    |
 | instituicao      | Nome da instituição proponente             | Texto    |
 | sigla_instituicao| Sigla da instituição proponente            | Texto    |
 | uf_instituicao   | Unidade Federativa da instituição          | Texto    |
