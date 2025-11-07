@@ -30,6 +30,7 @@ Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SE
 | grupo_tematico   | Grupo temático da pesquisa                 | Texto    |
 | subgrupo_tematico| Subgrupo temático da pesquisa              | Texto    |
 | tipo_pesquisa    | Tipo de pesquisa                           | Texto    |
+| programa         | Programa de financiamento                  | Texto    |
 | instituicao      | Nome da instituição proponente             | Texto    |
 | sigla_instituicao| Sigla da instituição proponente            | Texto    |
 | uf_instituicao   | Unidade Federativa da instituição          | Texto    |
