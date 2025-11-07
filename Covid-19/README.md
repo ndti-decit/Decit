@@ -23,6 +23,7 @@ Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SE
 
 | Coluna           | Descrição                                  | Tipo     |
 |------------------|--------------------------------------------|----------|
+| id               | identificador único do projeto             | Texto    |
 | ano_contratacao  | Ano de contratação                         | Texto    |
 | titulo           | Título do projeto                          | Texto    |
 | objetivo         | Objetivo do projeto                        | Texto    |
