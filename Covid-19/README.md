@@ -3,7 +3,7 @@
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus COVID-19, reunindo informações sobre projetos, anos de contratação, grupos temáticos e valores para consulta e análise pública.
+Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus Covid-19, reunindo informações sobre projetos, anos de contratação, grupos temáticos e valores para consulta e análise pública.
 
 ### 🔍 Descrição
 
