@@ -3,15 +3,15 @@
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SECTICS/MS relacionadas ao vírus Covid-19, reunindo informações sobre projetos, anos de contratação, grupos temáticos e valores para consulta e análise pública.
+Repositório de dados abertos sobre pesquisas financiadas pelo DECIT/SCTIE/MS relacionadas ao vírus Covid-19, reunindo informações sobre projetos, anos de contratação, grupos temáticos e valores para consulta e análise pública.
 
 ### 🔍 Descrição
 
-O repositório apresenta informações estratégicas sobre as pesquisas científicas relacionadas à Covid-19 fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS/MS). O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados.
+O repositório apresenta informações estratégicas sobre as pesquisas científicas relacionadas à Covid-19 fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS). O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados.
 
 Considerando a relevância do tema e o expressivo número de pesquisas fomentadas desde 2020, incluindo aquelas voltadas ao período pós-pandemia, o painel reúne dados que evidenciam o esforço institucional no fortalecimento da pesquisa em saúde e na produção de evidências científicas sobre a Covid-19.
 
-Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SECTICS/MS, não correspondendo à totalidade dos recursos destinados pelo Ministério da Saúde ao tema.
+Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SCTIE/MS, não correspondendo à totalidade dos recursos destinados pelo Ministério da Saúde ao tema.
 
 ### 📁 Estrutura do repositório
 
@@ -45,7 +45,7 @@ Veja a descrição completa das variáveis em `/documentacao`
 
 Ministério da Saúde – MS
 
-Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS
+Secretaria de Ciência, Tecnologia e Inovação em Saúde - SCTIE
 
 Departamento de Ciência e Tecnologia – DECIT
 
@@ -61,7 +61,7 @@ Coordenação-Geral de Evidências em Saúde – CGEvi/DECIT
 
 ### 📊 Fonte de dados:
 
-Departamento de Ciência e Tecnologia - DECIT/SECTICS/MS
+Departamento de Ciência e Tecnologia - DECIT/SCTIE/MS
 
 As informações do repositório são atualizadas semestralmente para garantir a precisão e a atualidade dos dados.
 
@@ -73,5 +73,5 @@ Os dados apresentados refletem valores consolidados informados pelas áreas téc
 
 ### 📄 Como citar:
 
-Ministério da Saúde. Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS). Departamento de Ciência e Tecnologia (DECIT). Base de Pesquisas Estratégicas da Covid-19. Brasília: Ministério da Saúde, [Ano]. Disponível em: https://github.com/ndti-decit/decit/blob/main/Covid-19.
+Ministério da Saúde. Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE). Departamento de Ciência e Tecnologia (DECIT). Base de Pesquisas Estratégicas da Covid-19. Brasília: Ministério da Saúde, [Ano]. Disponível em: https://github.com/ndti-decit/decit/blob/main/Covid-19.
 
