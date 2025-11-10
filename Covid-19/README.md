@@ -67,7 +67,7 @@ As informações do repositório são atualizadas semestralmente para garantir a
 
 ### ✏️ Notas:
 
-O painel apresenta dados de projetos e ações estratégicas fomentadas pelo DECIT/SECTICS/MS relacionados ao período pandêmico e pós-pandêmico do vírus Covid-19, a partir de 2020 até 2025.
+O painel apresenta dados de projetos e ações estratégicas fomentadas pelo DECIT/SCTIE/MS relacionados ao período pandêmico e pós-pandêmico do vírus Covid-19, a partir de 2020 até 2025.
 
 Os dados apresentados refletem valores consolidados informados pelas áreas técnicas responsáveis.
 
