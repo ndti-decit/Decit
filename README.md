@@ -4,7 +4,7 @@ O **Departamento de Ciência e Tecnologia (DECIT)** promove o acesso aberto aos 
 
 Neste repositório, disponibilizamos dados referentes a painéis publicados pelo DECIT, permitindo que pesquisadores, gestores e o público em geral possam consultar, analisar e reutilizar essas informações.
 
-Para acessar os painéis públicos do DECIT/SECTICS/MS e outras informações relacionadas, visite [Painéis DECIT](https://www.gov.br/saude/pt-br/composicao/sectics/decit).
+Para acessar os painéis públicos do DECIT/SCTIE/MS e outras informações relacionadas, visite [Painéis DECIT](https://www.gov.br/saude/pt-br/composicao/sectics/decit).
 
 ---
 
