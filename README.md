@@ -10,6 +10,6 @@ Para acessar os painéis públicos do DECIT/SCTIE/MS e outras informações rela
 
 **Objetivo deste repositório:**
 
-- Disponibilizar dados abertos de forma organizada e confiável.
-- Facilitar o acesso a informações para análise e pesquisa.
+- Disponibilizar dados abertos de forma organizada e confiável;
+- Facilitar o acesso a informações para análise e pesquisa;
 - Contribuir para políticas de ciência, tecnologia e inovação em saúde.
