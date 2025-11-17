@@ -51,13 +51,13 @@ Departamento de Ciência e Tecnologia – DECIT
 
 Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
 
-Coordenação-Geral de Ações Estratégicas em Pesquisa Clínica – CGPCLIN/DECIT
+Coordenação-Geral de Ações Estratégicas em Pesquisa – CGAEP/DECIT
 
-Coordenação-Geral de Fomento à Pesquisa em Saúde – CGFPS/DECIT
+Coordenação-Geral de Evidências e Pesquisa em Saúde – CGPS/DECIT
 
 Coordenação de Gestão de Programas de Pesquisa – COPP/DECIT
 
-Coordenação-Geral de Evidências em Saúde – CGEvi/DECIT
+Coordenação de Evidências em Saúde – COEVIS/DECIT
 
 ### 📊 Fonte de dados:
 
