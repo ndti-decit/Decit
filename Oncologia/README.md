@@ -62,7 +62,7 @@ Coordenação de Evidências em Saúde – COEVIS/DECIT
 
 ### 📊 Fonte de dados
 
-O painel apresenta dados de projetos e ações estratégicas do DECIT, de 2017 até 2024.  
+O painel apresenta dados de projetos e ações estratégicas do DECIT, de 2017 até 2025.  
 As informações devem ser atualizadas semestralmente, de acordo com a consolidação realizada pelas áreas técnicas do Departamento.
 
 ### ✏️ Notas
