@@ -17,7 +17,7 @@ Os valores apresentados são estimativas consolidadas informadas pelas áreas t�
 
 - `dados-oncologia/`: arquivos em CSV com os dados abertos para download.  
 - `documentacao/`: documentação técnica, especificação funcional e dicionário de dados.
--  Veja a descrição completa das variáveis em `/documentacao`
+
 
 ### 📖 Dicionário de Dados
 
@@ -40,6 +40,7 @@ Planilha base do painel (lista de projetos em oncologia):
 Observações:  
 - Os campos de filtros do painel (Ano, Programa, Tipo de Pesquisa, Tipo de Terapia Avançada, Grupo Temático e Status) são derivados diretamente dessas colunas.  
 - A planilha é a base para o cálculo de indicadores como número de projetos, valor estimado total e número de instituições.
+- Veja a descrição completa das variáveis em `documentacao/`
 
 ### 🤝 Contribuições
 
