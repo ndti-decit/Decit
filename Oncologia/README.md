@@ -17,6 +17,7 @@ Os valores apresentados são estimativas consolidadas informadas pelas áreas t�
 
 - `dados-oncologia/`: arquivos em CSV com os dados abertos para download.  
 - `documentacao/`: documentação técnica, especificação funcional e dicionário de dados.
+-  Veja a descrição completa das variáveis em `/documentacao`
 
 ### 📖 Dicionário de Dados
 
