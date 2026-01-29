@@ -9,7 +9,8 @@ Repositório de dados abertos sobre pesquisas em **oncologia** financiadas pelo 
 O repositório apresenta informações estratégicas sobre pesquisas científicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
 O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados, evidenciando o esforço institucional na pesquisa em câncer e na produção de evidências científicas para subsidiar políticas públicas e a atenção oncológica no SUS. 
 
-Considerando a relevância da temática do câncer e o volume de estudos apoiados em diferentes tipos de neoplasias, modalidades de pesquisa (pré-clínica, translacional, clínica, observacional, avaliação de tecnologias em saúde, entre outras) e linhas inovadoras (como terapias avançadas, medicina de precisão e genômica), o painel reúne dados que permitem visualizar a distribuição dos investimentos e das iniciativas em oncologia no país. [file:1]  
+Considerando a relevância da temática do câncer e o volume de estudos apoiados em diferentes tipos de neoplasias, modalidades de pesquisa (pré-clínica, translacional, clínica, observacional, avaliação de tecnologias em saúde, entre outras) e linhas inovadoras (como terapias avançadas, medicina de precisão e genômica), o painel reúne dados que permitem visualizar a distribuição dos investimentos e das iniciativas em oncologia no país. 
+
 Os valores apresentados se referem apenas às pesquisas fomentadas pelo DECIT/SCTIE/MS e por programas vinculados, como PRONON, PROADI-SUS e GENOMAS Brasil, não correspondendo à totalidade dos recursos destinados pelo Ministério da Saúde ao tema. 
 
 ### 📁 Estrutura do repositório
