@@ -3,8 +3,7 @@
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas em **oncologia** financiadas pelo DECIT/SCTIE/MS, reunindo informações sobre projetos, anos de contratação, tipos de câncer, modalidades de pesquisa, programas de fomento e valores, para consulta e análise pública. [file:1]
-
+Repositório de dados abertos sobre pesquisas em **oncologia** financiadas pelo DECIT/SCTIE/MS, reunindo informações sobre projetos, anos de contratação, tipos de câncer, modalidades de pesquisa, programas de fomento e valores, para consulta e análise pública.
 ### 🔍 Descrição
 
 O repositório apresenta informações estratégicas sobre pesquisas científicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
