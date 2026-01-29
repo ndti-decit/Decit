@@ -44,12 +44,21 @@ Observações:
 
 ### 🤝 Contribuições
 
-Ministério da Saúde – MS  
-Secretaria de Ciência, Tecnologia, Inovação e do Complexo Econômico-Industrial da Saúde – SECTICS  
-Departamento de Ciência e Tecnologia – DECIT  
-Núcleo de Gestão de Dados, Tecnologia e Inovação – NDTI/DECIT
+Ministério da Saúde – MS
 
-Áreas técnicas parceiras responsáveis pelo fornecimento e validação dos dados das pesquisas em oncologia.
+Secretaria de Ciência, Tecnologia e Inovação em Saúde - SCTIE
+
+Departamento de Ciência e Tecnologia – DECIT
+
+Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
+
+Coordenação-Geral de Ações Estratégicas em Pesquisa – CGAEP/DECIT
+
+Coordenação-Geral de Evidências e Pesquisa em Saúde – CGPS/DECIT
+
+Coordenação de Gestão de Programas de Pesquisa – COPP/DECIT
+
+Coordenação de Evidências em Saúde – COEVIS/DECIT
 
 ### 📊 Fonte de dados
 
