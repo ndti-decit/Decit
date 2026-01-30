@@ -3,7 +3,7 @@
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas em Oncologia financiadas pelo DECIT/SECTICS/MS, reunindo informações sobre projetos, anos, programas de fomento, grupos temáticos e valores, para consulta pública.
+Repositório de dados abertos sobre pesquisas em Oncologia financiadas pelo DECIT/SECTICS/MS, reunindo informações sobre projetos, anos, programas de fomento, grupos temáticos e valores para consulta pública.
 
 ### 🔍 Descrição
 
