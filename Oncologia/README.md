@@ -7,7 +7,7 @@ Repositório de dados abertos sobre pesquisas em Oncologia financiadas pelo DECI
 
 ### 🔍 Descrição
 
-O repositório apresenta informações estratégicas sobre pesquisas científicas e tecnológicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia, Inovação e do Complexo Econômico-Industrial da Saúde (SCTIE/MS).  
+O repositório apresenta informações estratégicas sobre pesquisas científicas e tecnológicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
 O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados, oferecendo uma visão consolidada do fomento a pesquisas em câncer e subsidiando a gestão e a formulação de políticas públicas em saúde.
 
 A base disponibiliza dados de projetos e ações estratégicas do DECIT de 2017 até 2025, com atualização semestral das informações.  
