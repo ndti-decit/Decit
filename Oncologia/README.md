@@ -3,15 +3,15 @@
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas em Oncologia financiadas pelo DECIT/SCTIE/MS, reunindo informações sobre projetos, anos, programas de fomento, grupos temáticos e valores para consulta pública.
+Repositório de dados abertos sobre pesquisas estratégicas em Oncologia financiadas pelo DECIT/SCTIE/MS, reunindo informações sobre projetos por ano, programas de fomento, grupos temáticos e valores.
 
 ### 🔍 Descrição
 
 O repositório apresenta informações estratégicas sobre pesquisas científicas e tecnológicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
 O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados, oferecendo uma visão consolidada do fomento a pesquisas em câncer e subsidiando a gestão e a formulação de políticas públicas em saúde.
 
-A base disponibiliza dados de projetos e ações estratégicas do DECIT de 2017 até 2025, com atualização semestral das informações.  
-Os valores apresentados são estimativas consolidadas informadas pelas áreas técnicas responsáveis e não correspondem à totalidade dos recursos do Ministério da Saúde destinados à oncologia.
+A base disponibiliza dados de projetos e ações estratégicas do Decit de 2017 até 2025, com atualização semestral das informações.  
+Os valores apresentados não correspondem à totalidade dos recursos do Ministério da Saúde destinados à oncologia.
 
 ### 📁 Estrutura do repositório
 
@@ -54,7 +54,7 @@ Ministério da Saúde – MS
 
 Secretaria de Ciência, Tecnologia e Inovação em Saúde - SCTIE
 
-Departamento de Ciência e Tecnologia – DECIT
+Departamento de Ciência e Tecnologia – DECIT/SCTIE/MS
 
 Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
 
@@ -62,9 +62,9 @@ Coordenação-Geral de Ações Estratégicas em Pesquisa – CGAEP/DECIT
 
 Coordenação-Geral de Evidências e Pesquisa em Saúde – CGPS/DECIT
 
-Coordenação de Gestão de Programas de Pesquisa – COPP/DECIT
+Coordenação de Gestão de Programas de Pesquisa – COPP/CGAEP/DECIT
 
-Coordenação de Evidências em Saúde – COEVIS/DECIT
+Coordenação de Evidências em Saúde – COEVIS/CGPS/DECIT
 
 ### 📊 Fonte de dados
 
@@ -73,7 +73,7 @@ As informações são atualizadas semestralmente, de acordo com a consolidação
 
 ### ✏️ Notas
 
-Os dados apresentados refletem valores consolidados informados pelas áreas técnicas responsáveis.
+Os valores apresentados são estimativas consolidadas informadas pelas áreas técnicas responsáveis.
 
 ### 📄 Como citar
 
