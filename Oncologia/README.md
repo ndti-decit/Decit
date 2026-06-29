@@ -1,13 +1,13 @@
 # Oncologia  
-#### Dados abertos do Departamento de Ciência e Tecnologia (DECIT)
+#### Dados abertos do Departamento de Ciência e Tecnologia (Decit)
 
 ### 📝 Resumo
 
-Repositório de dados abertos sobre pesquisas estratégicas em Oncologia financiadas pelo DECIT/SCTIE/MS, reunindo informações sobre projetos por ano, programas de fomento, grupos temáticos e valores.
+Repositório de dados abertos sobre pesquisas estratégicas em Oncologia financiadas pelo Decit/SCTIE/MS, reunindo informações sobre projetos por ano, programas de fomento, grupos temáticos e valores.
 
 ### 🔍 Descrição
 
-O repositório apresenta informações estratégicas sobre pesquisas científicas e tecnológicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (DECIT), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
+O repositório apresenta informações estratégicas sobre pesquisas científicas e tecnológicas em oncologia fomentadas pelo Departamento de Ciência e Tecnologia (Decit), da Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS).  
 O objetivo é promover transparência e possibilitar a consulta pública dos projetos apoiados, oferecendo uma visão consolidada do fomento a pesquisas em câncer e subsidiando a gestão e a formulação de políticas públicas em saúde.
 
 A base disponibiliza dados de projetos e ações estratégicas do Decit de 2017 até 2025, com atualização semestral das informações.  
@@ -54,17 +54,17 @@ Ministério da Saúde – MS
 
 Secretaria de Ciência, Tecnologia e Inovação em Saúde - SCTIE
 
-Departamento de Ciência e Tecnologia – DECIT/SCTIE/MS
+Departamento de Ciência e Tecnologia – Decit/SCTIE/MS
 
-Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/DECIT
+Núcleo de Gestão de Dados e Tecnologia da Informação – NDTI/Decit
 
-Coordenação-Geral de Ações Estratégicas em Pesquisa – CGAEP/DECIT
+Coordenação-Geral de Ações Estratégicas em Pesquisa – CGAEP/Decit
 
-Coordenação-Geral de Evidências e Pesquisa em Saúde – CGPS/DECIT
+Coordenação-Geral de Evidências e Pesquisa em Saúde – CGPS/Decit
 
-Coordenação de Gestão de Programas de Pesquisa – COPP/CGAEP/DECIT
+Coordenação de Gestão de Programas de Pesquisa – Copp/CGAEP/Decit
 
-Coordenação de Evidências em Saúde – COEVIS/CGPS/DECIT
+Coordenação de Evidências em Saúde – Coevis/CGPS/Decit
 
 ### 📊 Fonte de dados
 
@@ -77,4 +77,4 @@ Os valores apresentados são estimativas consolidadas informadas pelas áreas t�
 
 ### 📄 Como citar
 
-Ministério da Saúde. Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE). Departamento de Ciência e Tecnologia (DECIT). Base de Pesquisas Estratégicas em Oncologia. Brasília: Ministério da Saúde, 2026. Disponível em: https://github.com/ndti-decit/Decit/edit/main/Oncologia
+Ministério da Saúde. Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE). Departamento de Ciência e Tecnologia (Decit). Base de Pesquisas Estratégicas em Oncologia. Brasília: Ministério da Saúde, 2026. Disponível em: https://github.com/ndti-decit/Decit/edit/main/Oncologia
