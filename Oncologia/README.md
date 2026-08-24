@@ -36,7 +36,6 @@ A seguir, é possível visualizar o nome, a descrição e o tipo dos campos da t
 | uf_instituicao        | Unidade Federativa da instituição proponente                              | Texto    |
 | valor_projeto         | Valor estimado do projeto em reais (R$)                                   | Decimal  |
 | status                | Situação do projeto (Em execução, Finalizado, Não iniciado)               | Texto    |
-| mes_previsao          | Mês de previsão de término do projeto                                     | Inteiro  |
 | ano_previsao          | Ano de previsão de término do projeto                                     | Inteiro  |
 | terapia_avancada      | Indica se é um projeto de terapia avançada ou não                         | Booleana |
 | tipo_terapia_avancada | Classificação quanto à terapia avançada (Terapia Celular, Gênica, etc.)   | Texto    |
