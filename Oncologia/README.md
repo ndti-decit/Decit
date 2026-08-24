@@ -25,7 +25,6 @@ A seguir, é possível visualizar o nome, a descrição e o tipo dos campos da t
 
 | Coluna                | Descrição                                                                 | Tipo     |
 |-----------------------|---------------------------------------------------------------------------|----------|
-| id                    | Identificador único do projeto de pesquisa                                | Texto    |
 | ano_contratacao       | Ano em que o projeto foi submetido/contratado                             | Inteiro  |
 | titulo                | Título da pesquisa                                                        | Texto    |
 | objetivo              | Objetivo da pesquisa                                                      | Texto    |
